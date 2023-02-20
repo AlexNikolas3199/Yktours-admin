@@ -32,3 +32,12 @@
 
 ![image](https://user-images.githubusercontent.com/50858440/192109000-c656d83c-2501-48d9-9f98-761d1ec6f4c0.png)
 ![image](https://user-images.githubusercontent.com/50858440/192109045-0750fc6c-bc06-4a31-8aa7-12f9f843cf51.png)
+
+### Добавление и редактирование админов и модераторов
+
+![image](https://user-images.githubusercontent.com/50858440/192107568-35f44b21-aa80-476c-8d9a-f626782fdc1d.png)
+
+<div style="display:flex;flex-wrap:wrap">
+<img src="https://user-images.githubusercontent.com/50858440/192109688-c42a3313-d54c-4b83-bbfc-78cc253f03ae.png" width="49%" alt="">
+<img src="https://user-images.githubusercontent.com/50858440/192109708-614126d2-b94f-45bf-ad14-7cc9d79c76a0.png" width="49%" alt="">
+</div>
